@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Køb",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Er du klar til at",
+    "text": "Vi præsenterer Blossom. Lad din kreativitet blomstre med den nye køkkenmaskine i KitchenAid Design-serien.",
+    "subtitle": "Lad din <span>kreativitet blomstre</span>"
+  },
+
+  "kitchen": {
+    "title": "hver gang du bruger <br/> denne <span>køkkenmaskine</span>"
+  },
+
+  "description": {
+    "title": "Vi præsenterer Blossom. <br/> Lad din <span>kreativitet blomstre</span> med den nye køkkenmaskine i KitchenAid Design-serien",
+    "legends": [
+      "Den ikoniske tilbehørsmuffe er blevet nydesignet",
+      "En skål som ingen anden med et flot, hammerslået udseende i kobber",
+      "Blød timiangrøn og med fløjlsblød satinfinish"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Køb nu",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "Den bløde timiangrønne farve og <br/> de botaniske detaljer er inspireret <br/> af de <span>aromatiske urter og</span><br/> <span>spiselige blomster,</span> der bruges <br/> til madlavning og bagning",
+      "Blød timiangrøn og med <br/> <span>fløjlsblød satinfinish</span>"
+    ],
+    "pola": {
+      "title": "Blød timiangrøn",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "Den ikoniske tilbehørsmuffe er blevet <span>nydesignet</span>",
+    "subtitle": [
+      "tilbehørsmuffe i <br/> <span>blød</span> <br/> satinforkromning",
+      "når du tager ud på <br/> en kreativ rejse, der varer <br/> <span>hele livet</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom har en skål <br/> som ingen anden <br/> med et flot, <span>hammerslået </span> <br/> <span>udseende i kobber</span>",
+      "og klassiske <span>grydehåndtag</span>"
+    ],
+    "subtitle": [
+      "udvikler en unik patina over tid, <br/> der <span>afspejler</span> din udvikling som skaber"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspirer mig",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Blossom-inspireret interiør",
+      "text": "Køkkenmaskinen i Blossom Design-serien slører linjen mellem apparat og kunst med sin bløde timiangrønne farve, botaniske detaljer og den unikke hammerslået kobberskål. Udforsk måder at se det på i dit køkken.",
+      "actions": {
+        "shop": {
+          "label": "Køb nu",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Udvikling med tilbehør",
+      "text": "Udforsk dit fulde potentiale. Med mere end 10 forskellige tilbehørsdele kan du lave alt fra frisk pasta til burgere, vegetarnudler, is og meget mere.",
+      "actions": {
+        "shop": {
+          "label": "Udforsk tilbehør",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Du kan blomstre med <span>hver opskrift</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Få frisk opskriftsinspiration til hvert måltid, hver lejlighed og hver sult."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "opskrifter",
+    "subtitle": "Lad naturen være guide for din kreativitet",
+    "recipesList": [
+      {
+        "title": "Epi-brød",
+        "text": "På fransk beskriver epi blomsten på en hvedestilk. Nyd at lave dette imponerende brød.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Blomster- og urtesmør",
+        "text": "Fremtryl smagen af sommer med dette ultracremede, billedskønne urteblomstersmør.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Roseformede gyoza-dumplings",
+        "text": "Lad din kreativitet blomstre, mens du skaber disse fantastiske, krydrede bladformede dumplings.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Lav den"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "Så er det tid til at",
+    "actions": {
+      "shop": {
+        "label": "Køb din",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

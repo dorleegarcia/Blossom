@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Acheter",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Prêt pour",
+    "text": "Voici Blossom. Laissez libre cours à votre imagination avec le nouveau robot pâtissier multifonction de la collection Design Series par KitchenAid.",
+    "subtitle": "Laissez votre <span>créativité s’épanouir</span>"
+  },
+
+  "kitchen": {
+    "title": "à chaque fois que <br/> vous utilisez votre <span>robot </span> <br/> <span>pâtissier multifonction</span>"
+  },
+
+  "description": {
+    "title": "Voici Blossom. <br/> Laissez <span>libre cours à votre imagination</span> avec le nouveau robot pâtissier multifonction de la collection Design Series par KitchenAid",
+    "legends": [
+      "L’emblématique cache du moyeu a été repensé",
+      "Son bol aux détails en cuivre martelé",
+      "Vert thym doux avec finition satinée et veloutée"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Acheter",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "La douce couleur vert thym et <br/> les détails botaniques sont inspirés <br/> par les <span>herbes aromatiques et </span> <br/> <span>les fleurs comestibles</span> utilisées <br/> pour la cuisine et la pâtisserie",
+      "Vert thym doux avec <br/> <span>finition satinée et veloutée</span>"
+    ],
+    "pola": {
+      "title": "Vert thym doux",
+      "subtitle": "blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "L’emblématique cache du moyeu a été <span>repensé</span>",
+    "subtitle": [
+      "Cache du moyeu lisse, <br/> <span>chromé et satiné</span>",
+      "Vous embarquez pour <br/> une aventure créative qui durera <br/> <span>toute la vie</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Le bol de Blossom <br/> est unique en son genre <br/> avec ses détails en <span>cuivre martelé</span>",
+      "et ses <span>poignées</span> classiques <br/> similaires à celles d’une marmite"
+    ],
+    "subtitle": [
+      "il se patine au fil du temps, <br/> <span>reflétant</span> ainsi vos progrès en cuisine"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspirez-moi",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Des intérieurs inspirés par Blossom",
+      "text": "Le robot pâtissier multifonction Blossom de la collection Design Series efface la frontière entre appareil électroménager et art avec sa couleur vert thym douce, ses détails botaniques et son bol en cuivre martelé unique. Découvrez comment le mettre en valeur dans votre cuisine.",
+      "actions": {
+        "shop": {
+          "label": "Acheter",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Développez vos compétences grâce aux accessoires",
+      "text": "Explorez tout votre potentiel. Avec plus de 10 accessoires différents, vous pouvez préparer des pâtes fraîches, des hamburgers, des nouilles végétariennes, de la crème glacée, et bien plus encore.",
+      "actions": {
+        "shop": {
+          "label": "Découvrir les accessoires",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Progressez à <span>chaque recette</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Découvrez de nouvelles recettes qui vous inspireront pour tous les repas, toutes les occasions et toutes vos envies."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "recettes",
+    "subtitle": "Laissez la nature guider votre créativité",
+    "recipesList": [
+      {
+        "title": "Pain en épi",
+        "text": "Le mot « épi » désigne la fleur au bout de la tige du blé. Amusez-vous en réalisant ce pain du plus bel effet.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Beurre aux fleurs et aux herbes",
+        "text": "Savourez l’été avec ce beurre ultra-crémeux aux herbes et aux fleurs, aussi beau que bon.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Roses de raviolis gyoza",
+        "text": "Laissez s’épanouir votre créativité en créant ces incroyables raviolis salés en forme de pétales.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Recette"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "Il est temps de <br/> vous épanouir avec",
+    "actions": {
+      "shop": {
+        "label": "Acheter le vôtre",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

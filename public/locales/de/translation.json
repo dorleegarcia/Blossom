@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Kaufen",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Sind Sie bereit für",
+    "text": "Wir präsentieren: Blossom. Lassen Sie Ihrer Kreativität mit der neuen Küchenmaschine der KitchenAid Design-Serie freien Lauf.",
+    "subtitle": "Lassen Sie Ihrer <span>Kreativität freien Lauf</span>"
+  },
+
+  "kitchen": {
+    "title": "Jedes Mal, wenn Sie <br/> diese <span>Küchenmaschine</span> einschalten"
+  },
+
+  "description": {
+    "title": "Wir präsentieren: Blossom. <br/> Lassen Sie Ihrer <span>Kreativität</span> mit der neuen Küchenmaschine der KitchenAid Design-Serie <span>freien Lauf</span>",
+    "legends": [
+      "Ikonische Nabenabdeckung in neuem Design",
+      "Eine Schüssel aus wunderschönem, gehämmertem Kupfer",
+      "Weiches Thymiangrün mit glänzender Oberfläche"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Jetzt kaufen",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "Das weiche Thymiangrün und <br/> die botanischen Akzente sind von <br/> den <span>aromatischen Kräutern und</span> <br/> <span>essbaren Blumen</span> inspiriert, <br/> die beim Kochen und Backen <br/> verwendet werden",
+      "Weiches Thymiangrün mit <br/> <span>glänzender Oberfläche</span>"
+    ],
+    "pola": {
+      "title": "Weiches Thymiangrün",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "Ikonische Nabenabdeckung in <span>neuem Design</span>",
+    "subtitle": [
+      "Abdeckung der Zubehörnabe <br/> aus <span>satiniertem Chrom</span>",
+      "Der Beginn <br/> einer kreativen Reise, die ein <br/> <span>Leben lang andauert</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom beinhaltet <br/> eine Schüssel aus <span>wunderschönem,</span> <br/> gehämmertem Kupfer",
+      "mit <span>Griffen</span> im <br/> klassischen Topfdesign"
+    ],
+    "subtitle": [
+      "Entwickelt im Laufe der Zeit <br/> eine einzigartige Patina, <br/> die Ihre <span>Entwicklung</span> <br/> als Macher widerspiegelt"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Jetzt inspirieren lassen",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Durch Blossom inspirierte Innenräume",
+      "text": "Mit seiner sanften thymiangrünen Farbe, den botanischen Details und der einzigartigen Schüssel aus gehämmertem Kupfer lässt die Blossom Küchenmaschine der KitchenAid Design-Serie die Grenze zwischen Haushaltsgerät und Kunstwerk verschwimmen. Finden Sie heraus, wie sie in Ihre Küche passt.",
+      "actions": {
+        "shop": {
+          "label": "Jetzt kaufen",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Zubehörteile unterstützen Ihre Entwicklung",
+      "text": "Entdecken Sie Ihr volles Potenzial. Mit über 10 verschiedenen Zubehörteilen können Sie alles zubereiten, von frischer Pasta bis hin zu Burgern, Veggie-Nudeln, Eiscreme und mehr.",
+      "actions": {
+        "shop": {
+          "label": "Zubehör entdecken",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Blühen Sie mit <span>jedem Rezept</span> mehr auf",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Entdecken Sie frische Rezeptinspirationen für jede Mahlzeit, jeden Anlass und jedes Verlangen."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "Rezepte",
+    "subtitle": "Lassen Sie Ihre Kreativität von der Natur lenken",
+    "recipesList": [
+      {
+        "title": "Pain d'Épi",
+        "text": "Eine wundervolle französische Brotsorte in Getreideährenform. Ein wahrer Augenschmaus.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Blumen- und Kräuterbutter",
+        "text": "Mit dieser cremigen, traumhaft schönen, blumigen Kräuterbutter können Sie sich den Sommer schmecken lassen.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Gyoza-Teigtaschen in Rosenform",
+        "text": "Lassen Sie Ihrer Kreativität freien Lauf und zaubern Sie diese unglaublich leckeren Teigtaschen in Form von Blütenblättern.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Jetzt zubereiten"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "Es ist Zeit, aufzublühen mit",
+    "actions": {
+      "shop": {
+        "label": "Ihr Produkt kaufen",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

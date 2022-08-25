@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Shoppen",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Klaar voor",
+    "text": "Maak kennis met Blossom. Laat je creativiteit de vrije loop met de nieuwe keukenrobot van de KitchenAid Design serie.",
+    "subtitle": "Laat je <span>creativiteit de vrije loop</span>"
+  },
+
+  "kitchen": {
+    "title": "elke keer dat je <br/> deze <span>keukenrobot</span> gebruikt"
+  },
+
+  "description": {
+    "title": "Maak kennis met Blossom. <br/> Laat je <span>creativiteit de vrije loop</span> met de nieuwe keukenrobot van de KitchenAid Design serie",
+    "legends": [
+      "Het iconische naafdeksel is in een nieuw jasje gestoken",
+      "Een prachtig gehamerd koperen detail",
+      "Zacht tijmgroen met fluweelzachte, glanzende afwerking"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Shop nu",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "De zachte tijmgroene kleur en <br/> botanische accenten zijn geïnspireerd <br/> op de <span>aromatische kruiden en</span> <br/> <span>eetbare bloemen</span> die je kunt gebruiken bij het koken en bakken",
+      "Zacht tijmgroen met <br/> <span>fluweelzachte, glanzende afwerking</span>"
+    ],
+    "pola": {
+      "title": "Zacht tijmgroen",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "Het iconische naafdeksel is in een <span>nieuw jasje</span> gestoken",
+    "subtitle": [
+      "zacht, <br/><span>gesatineerd chromen</span> <br/> naafdeksel",
+      "begin een creatieve reis <br/> die een <span>leven lang</span> <br/>blijft duren"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom heeft <br/> een unieke kom met een <br/> <span>prachtig gehamerd</span> <br/> koperen detail",
+      "en klassieke <span>handgrepen</span> <br/> in potstijl"
+    ],
+    "subtitle": [
+      "ontwikkelt na verloop van tijd <br/> een uniek patina, een <span>weerspiegeling</span> van je groei als maker"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspireer mij",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Blossom inspireert interieurs",
+      "text": "Bij de Blossom keukenrobot van de Design serie vervaagt de grens tussen apparaat en kunst met zijn zachte tijmgroene kleur, botanische details en unieke gehamerd koperen kom. Ontdek hoe hij in jouw keuken staat.",
+      "actions": {
+        "shop": {
+          "label": "Shop nu",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Groei met accessoires",
+      "text": "Ontdek je mogelijkheden. Met meer dan 10 verschillende accessoires kun je van alles maken, van verse pasta tot hamburgers, groentenoedels, roomijs en nog veel meer.",
+      "actions": {
+        "shop": {
+          "label": "Ontdek accessoires",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Bloei met <span>elk recept</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Ontdek nieuwe receptinspiratie voor elke maaltijd, elke gelegenheid en alles waar je zin in hebt."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "recepten",
+    "subtitle": "Laat de natuur je leiden in je creativiteit",
+    "recipesList": [
+      {
+        "title": "Breekbrood (‘pain d’épi’)",
+        "text": "Epi is Frans voor de bloem van een tarwestengel. Veel plezier bij het maken van dit indrukwekkende brood.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Bloemen- en kruidenboter",
+        "text": "Breng een vleugje zomer in huis met deze ultraromige, kruidige bloemenboter die er prachtig uitziet.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Roosvormige gyoza",
+        "text": "Laat je creativiteit de vrije loop bij het maken van deze heerlijke hartige dumplings in de vorm van bloemblaadjes.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Maak het nu"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "Het is tijd om je creativiteit <br/> te laten bloeien met",
+    "actions": {
+      "shop": {
+        "label": "Koop die van jou nu",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

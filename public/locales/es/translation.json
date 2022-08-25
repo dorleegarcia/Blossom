@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Compra",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Listo para",
+    "text": "Presentamos Blossom. Deja tu creatividad florecer con la nueva Batidora de KitchenAid Design Series.",
+    "subtitle": "Deja tu <span>creatividad florecer</span>"
+  },
+
+  "kitchen": {
+    "title": "cada vez que te acercas <br/>a esta <span>batidora</span>"
+  },
+
+  "description": {
+    "title": "Presentamos Blossom. <br/> Deja tu <span>creatividad florecer</span> con la nueva Batidora de KitchenAid Design Series",
+    "legends": [
+      "El icónico medallón ha sido reimaginado",
+      "Hermoso detalle de cobre martillado",
+      "Suave verde tomillo con acabado satinado aterciopelado"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Comprar ahora",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "El color suave verde tomillo y <br/> los acentos botánicos están inspirados <br/> en las <span>hierbas aromáticas y</span><br/> <span>las flores comestibles</span> que se usan <br/> para cocinar y hornear",
+      "Suave verde tomillo con  <br/> <span>acabado satinado</span> aterciopelado"
+    ],
+    "pola": {
+      "title": "Verde tomillo",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "El icónico medallón ha sido <span>reimaginado</span>",
+    "subtitle": [
+      "medallón <br/><span>cromo-satinado</span>",
+      "mientras inicias <br/>un viaje creativo que dura <br/> <span>toda la vida</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom tiene un tazón <br/> como ningún otro con <br/> un hermoso <span>detalle de </span> <br/> <span>cobre martillado</span>",
+      "y <span>manijas clásicas</span> <br/> estilo olla"
+    ],
+    "subtitle": [
+      "desarrolla una pátina única <br/> con el tiempo, lo que <span>refleja</span> <br/> su crecimiento como creador"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspirame",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Interiores inspirados en Blossom",
+      "text": "La Batidora KitchenAid Design Series desdibuja la línea entre el electrodoméstico y el arte ,con su color suave verde tomillo, detalles botánicos y su exclusivo tazón de cobre martillado. Explora formas de verlo en tu cocina.",
+      "actions": {
+        "shop": {
+          "label": "Comprar ahora",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Crece con aditamentos",
+      "text": "Explora todo tu potencial. Con más de 10 aditamentos diferentes para disfrutar, puede hacer de todo, desde pasta fresca hasta hamburguesas, fideos vegetarianos, helados y más.",
+      "actions": {
+        "shop": {
+          "label": "Explora Aditamentos",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Florece con <span>cualquier receta</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Descubre inspiración fresca  para cada comida, cada ocasión, cada antojo."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "Recetas",
+    "subtitle": "Deja que la naturaleza guíe tu creatividad",
+    "recipesList": [
+      {
+        "title": "Pan Epi",
+        "text": "Domina los conceptos básicos y luego diversifica con este Pan-Epi de inspiración francesa.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Mantequilla de flores y hierbas",
+        "text": "Bate la mantequilla a plena cremosidad.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Albóndigas de gyoza en forma de rosa",
+        "text": "¿Albóndigas para cenar? Créalos como un ramo de Gyoza en forma de rosa.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Hazlo"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "Es tiempo de florecer con",
+    "actions": {
+      "shop": {
+        "label": "Compra la tuya",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

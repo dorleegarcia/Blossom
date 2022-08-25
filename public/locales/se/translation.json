@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Handla",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Är du redo att",
+    "text": "Vi presenterar Blossom. Låt kreativiteten flöda med den nya köksmaskinen i KitchenAids designserie.",
+    "subtitle": "Låter din <span>kreativitet blomma ut</span>"
+  },
+
+  "kitchen": {
+    "title": "varje gång du använder <br/> den här <span>köksmaskinen</span>"
+  },
+
+  "description": {
+    "title": "Vi presenterar Blossom. <br/> Låt <span>kreativiteten flöda</span> med den nya köksmaskinen i KitchenAids designserie",
+    "legends": [
+      "Det ikoniska frontfästet på ett helt nytt sätt",
+      "En skål som inte liknar någon annan med underbart kopparhamrade detaljer",
+      "Mjuk timjansgrön med sammetslen satinfinish"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Köp nu",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "Den mjuka timjansgröna färgen och <br/> de botaniska accenterna har inspirerats <br/> av <span>aromatiska örter och</span> <br/> <span>ätbara blommor</span> som används <br/> i matlagning och bakning",
+      "Mjuk timjansgrön med <br/> <span>sammetslen satinfinish</span>"
+    ],
+    "pola": {
+      "title": "Mjuk timjansgrön",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "Det ikoniska frontfästet på ett helt <span>nytt sätt</span>",
+    "subtitle": [
+      "mjukt <br/> <span>kromat frontfäste</span>",
+      "när du inleder <br/> en kreativ resa som varar <br/> <span>hela livet</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom har en skål <br/> som inte liknar någon annan <br/> med <span>underbart</span> <br/> kopparhamrade detaljer",
+      "och klassiska <br/> kastrulliknande <span>handtag</span>"
+    ],
+    "subtitle": [
+      "utvecklar med tiden en unik patina <br/> som <span>återspeglar</span> din utveckling som hemmakock"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspirera mig",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Blossom-inspirerade inredningar",
+      "text": "Blossom-designserien med köksmaskiner suddar ut linjen mellan apparat och konst med sin mjuka timjansgröna färg, botaniska detaljer och unika hamrade kopparskål. Se den i ditt kök på olika sätt.",
+      "actions": {
+        "shop": {
+          "label": "Köp nu",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Utvecklas med hjälp av tillbehör",
+      "text": "Utforska hela din potential. Den har fler än 10 olika tillbehör som du kan använda till att göra allt från färsk pasta till hamburgare, vegetariska nudlar, glass och mycket mer.",
+      "actions": {
+        "shop": {
+          "label": "Visa tillbehör",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Blossom till <span>varje recept</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Hitta receptinspiration för varje måltid, varje tillfälle och varje begär."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "recept",
+    "subtitle": "Låt naturen inspirera till kreativitet",
+    "recipesList": [
+      {
+        "title": "Epibröd",
+        "text": "På franska är ”epi” blomman på vetestjälken. Baka det här imponerande brödet.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Blom- och örtsmör",
+        "text": "Känn smaken av sommaren med det här ultrakrämiga, vackra och örtiga blomsmöret.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Rosenformade gyozadumplingar",
+        "text": "Låt din kreativitet blomstra när du skapar de här otroliga smakfulla bladformade dumplingarna.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Tillaga"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "Det är dags att",
+    "actions": {
+      "shop": {
+        "label": "Köp din",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Osta",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Oletko valmis",
+    "text": "Esittelyssä Blossom. Anna luovuutesi kukkia KitchenAidin uudella Design-sarjan yleiskoneella.",
+    "subtitle": "Anna <span>luovuutesi kukkia</span>"
+  },
+
+  "kitchen": {
+    "title": "aina kun otat <br/> <span>yleiskoneesi</span> käyttöön"
+  },
+
+  "description": {
+    "title": "Esittelyssä Blossom. <br/> Anna <span>luovuutesi kukkia</span> KitchenAidin uudella Design-sarjan yleiskoneella",
+    "legends": [
+      "Ikoninen keskiön kansi on päivitetty",
+      "On aivan omanlaisensa kuparikulho, jossa on upeat taotut yksityiskohdat",
+      "Samettisen pehmeä timjaminsävyinen vihreä satiininhohtoisella viimeistelyllä"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Osta nyt",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "Pehmeä timjaminsävyinen vihreä <br/> ja kasvikuviot ovat saaneet <br/> inspiraationsa ruoanlaitossa <br/> käytetyistä <span>aromaattisista</span> <br/> <span>yrteistä ja syötävistä kukista</span>",
+      "Samettisen pehmeä <br/> timjaminsävyinen vihreä <br/> <span>satiininhohtoisella viimeistelyllä</span>"
+    ],
+    "pola": {
+      "title": "Timjami Vihreä",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "Ikoninen keskiön kansi on <span>päivitetty</span>",
+    "subtitle": [
+      "<span>satiinikromattu</span> <br/> keskiön kansi",
+      "aloittaessasi <br/> <span>koko elämän</span> <br/> kestävän luovan matkan"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossomissa on aivan <br/> omanlaisensa <span>kuparikulho,</span> <br/> jossa on upeat taotut yksityiskohdat",
+      "ja klassiset kattilatyyliset <span>kahvat</span>"
+    ],
+    "subtitle": [
+      "saa ajan saatossa ainutlaatuisen <br/> patinan, joka <span>kuvastaa</span> kehitystäsi tekijänä"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspiroi minua",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Blossomin inspiroima sisustus",
+      "text": "Design-sarjan Blossom-yleiskoneen timjaminvihreä väri, kasvikuviointi ja uniikki taottu kuparikulho hämärtävät keittiövälineen ja taiteen rajaa. Tutustu tapoihin yhdistää se keittiöösi.",
+      "actions": {
+        "shop": {
+          "label": "Osta nyt",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Kehity lisävarusteiden avulla",
+      "text": "Päästä koko potentiaalisi valloilleen. Yli 10 erilaisen lisävarusteen avulla voit valmistaa kaikkea tuorepastasta burgereihin ja kasvisnuudeleista jäätelöön.",
+      "actions": {
+        "shop": {
+          "label": "Tutustu lisävarusteisiin",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Blossom – <span>anna luomustesi kukkia</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Löydä inspiroivia reseptejä kaikille aterioille, kaikkiin tilanteisiin ja kaikkiin mielitekoihin."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "reseptit",
+    "subtitle": "Anna luonnon ohjata luovuuttasi",
+    "recipesList": [
+      {
+        "title": "Epi bread eli tähkäleipä",
+        "text": "Opettele perusasiat ja laajenna sitten taitojasi tämän ranskalaisvaikutteisen tähkäleivän parissa.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Kukka-yrttivoi",
+        "text": "Voita täydessä kukoistuksessa.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Ruusunmuotoiset gyoza-mykyt",
+        "text": "Haluatko mykyjä illalliseksi? Kokoa kimppu ruusunmuotoisista gyoza-mykyistä.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Ohje"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "On aika kukoistaa,",
+    "actions": {
+      "shop": {
+        "label": "Hanki omasi",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

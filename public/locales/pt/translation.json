@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Eu quero",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Preparado para",
+    "text": "Apresentando Blossom. Deixe sua criatividade florescer com a nova Batedeira KitchenAid Design Series.",
+    "subtitle": "Deixe sua <span>criatividade florescer</span>"
+  },
+
+  "kitchen": {
+    "title": "a cada uso da <span>batedeira</span>"
+  },
+
+  "description": {
+    "title": "Apresentando Blossom. <br/> Deixe sua <span>criatividade florescer</span> com a nova Batedeira KitchenAid Design Series",
+    "legends": [
+      "Com icônico centro de conexão especial",
+      "Detalhes em cobre martelado",
+      "Verde tomilho suave com acabamento acetinado aveludado"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Comprar",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "Sua cor verde tomilho suave e <br/> detalhes botânicos são inspirados <br/> nas <span>ervas aromáticas e </span> <br/> <span>flores comestíveis</span> usadas <br/> na culinária",
+      "Verde tomilho suave com <br/> <span>acabamento acetinado aveludado</span>"
+    ],
+    "pola": {
+      "title": "Verde tomilho",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "Com icônico centro de conexão <span>especial</span>",
+    "subtitle": [
+      "com acabamento <br/> <span>cromo acetinado</span>",
+      "enquanto você inicia uma <br/>jornada criativa que dura <br/> <span>a vida inteira</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom possui uma tigela <br/> exclusiva com <span>detalhes em </span> <br/> <span>cobre martelado</span>",
+      "e <span>alças</span> de uma <br/> tigela clássica"
+    ],
+    "subtitle": [
+      "desenvolve uma pátina única <br/> ao longo do tempo, <span>refletindo</span> sua transformação na cozinha"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspire-se",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Inspirações de Blossom",
+      "text": "A Batedeira Blossom Design Series fica entre o eletroportátil e a arte com sua cor verde tomilho suave, detalhes botânicos e tigela de cobre martelado exclusiva. Explore suas possibilidades em sua cozinha.",
+      "actions": {
+        "shop": {
+          "label": "Comprar",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Diferentes possibilidades com os acessórios",
+      "text": "Explore seu potencial. Com mais de 10 acessórios diferentes para se aventurar, você pode fazer tudo, desde massas frescas a hambúrgueres, macarrão vegetariano, sorvete e muito mais.",
+      "actions": {
+        "shop": {
+          "label": "Saiba mais",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Floresça com <span>cada receita</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Inspire-se com cada receita, cada refeição, cada ocasião."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "Receitas",
+    "subtitle": "Deixe a natureza guiar sua criatividade",
+    "recipesList": [
+      {
+        "title": "Pão Epi",
+        "text": "Domine o basico e crie raízes com esse pão inspirado na baguete francesa.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Manteiga florida com ervas",
+        "text": "Floresça com o preparo da manteiga.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Bolinhos de gyoza em formato de rosa",
+        "text": "Bolinhos para o jantar? Faça-os em formato de buquê de rosa.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Ver receita"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "É hora de florescer com",
+    "actions": {
+      "shop": {
+        "label": "Comprar",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}

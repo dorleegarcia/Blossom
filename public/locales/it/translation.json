@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid - Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Acquista",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Pronti a scoprire",
+    "text": "Ti presentiamo Blossom. Fai sbocciare la tua creatività con la nuova planetaria della collezione Design di KitchenAid.",
+    "subtitle": "Fai <span>sbocciare</span> la tua <span>creatività</span>"
+  },
+
+  "kitchen": {
+    "title": "ogni volta che usi <br/>questa <span>planetaria</span>"
+  },
+
+  "description": {
+    "title": "Ti presentiamo Blossom. <br/> Fai <span>sbocciare la tua creatività</span> con la nuova planetaria della collezione Design di KitchenAid",
+    "legends": [
+      "L'iconico copri-innesto è stato reinventato",
+      "Una ciotola con splendidi dettagli in rame martellato",
+      "Verde timo delicato con finitura satinata e vellutata"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Acquista ora",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "Il delicato colore verde timo e <br/> i motivi botanici si ispirano <br/> <span>erbe aromatiche e</span> <br/> <span>ai fiori commestibili</span>, utilizzati <br/> nella preparazione di ricette <br/> dolci e salate",
+      "Verde timo delicato con <br/> <span>finitura satinata e vellutata</span>"
+    ],
+    "pola": {
+      "title": "Verde timo",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "L'iconico copri-innesto è stato <span>reinventato</span>",
+    "subtitle": [
+      "il copri-innesto <br/> raffinato in metallo <br/> <span>cromato satinato</span>",
+      "per iniziare <br/> un viaggio creativo che <br/> <span>dura una vita</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom è dotata <br/> di una ciotola inconfondibile, <br/> arricchita con <span>splendidi dettagli</span> <br/> in rame martellato",
+      "e <span>l'impugnatura</span> classica <br/> simile a quella di una pentola in rame"
+    ],
+    "subtitle": [
+      "sviluppa nel tempo una patina unica <br/> che <span>riflette</span> i tuoi progressi in cucina"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Ispirami",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Interni ispirati ai fiori",
+      "text": "La planetaria Blossom della collezione Design è una vera e propria opera d'arte caratterizzata da un delicato colore verde timo, dettagli botanici e un'esclusiva ciotola in rame satinato martellato. Scopri dove meglio esporla nella tua cucina.",
+      "actions": {
+        "shop": {
+          "label": "Acquista ora",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Migliora la tua esperienza in cucina con gli accessori",
+      "text": "Sperimenta infinite possibilità. Con oltre 10 accessori diversi da provare, puoi fare di tutto: dalla pasta fresca agli hamburger, dagli spaghetti vegetariani al gelato e molto altro ancora.",
+      "actions": {
+        "shop": {
+          "label": "Scopri gli accessori",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Con Blossom <span>ogni ricetta</span> fiorisce",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Lasciati ispirare dalle nuovissime ricette, perfette per ogni pasto, occasione o umore."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "ricette",
+    "subtitle": "Lasciati guidare dalla natura",
+    "recipesList": [
+      {
+        "title": "Pane spiga",
+        "text": "In francese, la parola 'epi' si riferisce al fiore della spiga di grano. Divertiti a realizzare questo pane incredibile.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Burro con fiori ed erbe aromatiche",
+        "text": "Assapora l'estate con questo splendido burro ultra cremoso aromatizzato alle erbe e ai fiori.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Ravioli gyoza a forma di rosa",
+        "text": "Fai sbocciare la tua creatività realizzando questi deliziosi ravioli a forma di petalo.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Realizza la ricetta"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "È tempo di fiorire con",
+    "actions": {
+      "shop": {
+        "label": "Acquista la tua",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}
