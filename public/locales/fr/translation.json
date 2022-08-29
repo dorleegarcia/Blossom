@@ -5,7 +5,7 @@
     "actions": {
       "shop": {
         "label": "Acheter",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     },
     "alt" : {
@@ -35,7 +35,7 @@
     "actions": {
       "shop": {
         "label": "Acheter",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -73,7 +73,7 @@
     "actions": {
       "inspire": {
         "label": "Inspirez-moi",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -85,7 +85,7 @@
       "actions": {
         "shop": {
           "label": "Acheter",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     },
@@ -95,7 +95,7 @@
       "actions": {
         "shop": {
           "label": "Découvrir les accessoires",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     }
@@ -122,17 +122,17 @@
       {
         "title": "Pain en épi",
         "text": "Le mot « épi » désigne la fleur au bout de la tige du blé. Amusez-vous en réalisant ce pain du plus bel effet.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Beurre aux fleurs et aux herbes",
         "text": "Savourez l’été avec ce beurre ultra-crémeux aux herbes et aux fleurs, aussi beau que bon.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Roses de raviolis gyoza",
         "text": "Laissez s’épanouir votre créativité en créant ces incroyables raviolis salés en forme de pétales.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       }
     ],
     "actions": {
@@ -147,7 +147,7 @@
     "actions": {
       "shop": {
         "label": "Acheter le vôtre",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   }

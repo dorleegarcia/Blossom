@@ -5,7 +5,7 @@
     "actions": {
       "shop": {
         "label": "Osta",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     },
     "alt" : {
@@ -35,7 +35,7 @@
     "actions": {
       "shop": {
         "label": "Osta nyt",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -73,7 +73,7 @@
     "actions": {
       "inspire": {
         "label": "Inspiroi minua",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -85,7 +85,7 @@
       "actions": {
         "shop": {
           "label": "Osta nyt",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     },
@@ -95,7 +95,7 @@
       "actions": {
         "shop": {
           "label": "Tutustu lisävarusteisiin",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     }
@@ -122,17 +122,17 @@
       {
         "title": "Epi bread eli tähkäleipä",
         "text": "Opettele perusasiat ja laajenna sitten taitojasi tämän ranskalaisvaikutteisen tähkäleivän parissa.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Kukka-yrttivoi",
         "text": "Voita täydessä kukoistuksessa.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Ruusunmuotoiset gyoza-mykyt",
         "text": "Haluatko mykyjä illalliseksi? Kokoa kimppu ruusunmuotoisista gyoza-mykyistä.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       }
     ],
     "actions": {
@@ -147,7 +147,7 @@
     "actions": {
       "shop": {
         "label": "Hanki omasi",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   }

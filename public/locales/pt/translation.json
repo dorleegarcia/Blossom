@@ -5,7 +5,7 @@
     "actions": {
       "shop": {
         "label": "Eu quero",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     },
     "alt" : {
@@ -35,7 +35,7 @@
     "actions": {
       "shop": {
         "label": "Comprar",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -73,7 +73,7 @@
     "actions": {
       "inspire": {
         "label": "Inspire-se",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -85,7 +85,7 @@
       "actions": {
         "shop": {
           "label": "Comprar",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     },
@@ -95,7 +95,7 @@
       "actions": {
         "shop": {
           "label": "Saiba mais",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     }
@@ -122,17 +122,17 @@
       {
         "title": "Pão Epi",
         "text": "Domine o basico e crie raízes com esse pão inspirado na baguete francesa.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Manteiga florida com ervas",
         "text": "Floresça com o preparo da manteiga.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Bolinhos de gyoza em formato de rosa",
         "text": "Bolinhos para o jantar? Faça-os em formato de buquê de rosa.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       }
     ],
     "actions": {
@@ -147,7 +147,7 @@
     "actions": {
       "shop": {
         "label": "Comprar",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   }

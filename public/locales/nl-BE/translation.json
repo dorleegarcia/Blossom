@@ -5,7 +5,7 @@
     "actions": {
       "shop": {
         "label": "Shoppen",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     },
     "alt" : {
@@ -35,7 +35,7 @@
     "actions": {
       "shop": {
         "label": "Shop nu",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -73,7 +73,7 @@
     "actions": {
       "inspire": {
         "label": "Inspireer mij",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -85,7 +85,7 @@
       "actions": {
         "shop": {
           "label": "Shop nu",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     },
@@ -95,7 +95,7 @@
       "actions": {
         "shop": {
           "label": "Ontdek accessoires",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     }
@@ -122,17 +122,17 @@
       {
         "title": "Breekbrood (‘pain d’épi’)",
         "text": "Epi is Frans voor de bloem van een tarwestengel. Veel plezier bij het maken van dit indrukwekkende brood.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Bloemen- en kruidenboter",
         "text": "Breng een vleugje zomer in huis met deze ultraromige, kruidige bloemenboter die er prachtig uitziet.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Roosvormige gyoza",
         "text": "Laat je creativiteit de vrije loop bij het maken van deze heerlijke hartige dumplings in de vorm van bloemblaadjes.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       }
     ],
     "actions": {
@@ -147,7 +147,7 @@
     "actions": {
       "shop": {
         "label": "Koop die van jou nu",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   }

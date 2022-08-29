@@ -5,7 +5,7 @@
     "actions": {
       "shop": {
         "label": "Køb",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     },
     "alt" : {
@@ -35,7 +35,7 @@
     "actions": {
       "shop": {
         "label": "Køb nu",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -73,7 +73,7 @@
     "actions": {
       "inspire": {
         "label": "Inspirer mig",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   },
@@ -85,7 +85,7 @@
       "actions": {
         "shop": {
           "label": "Køb nu",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     },
@@ -95,7 +95,7 @@
       "actions": {
         "shop": {
           "label": "Udforsk tilbehør",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.mx/"
         }
       }
     }
@@ -122,17 +122,17 @@
       {
         "title": "Epi-brød",
         "text": "På fransk beskriver epi blomsten på en hvedestilk. Nyd at lave dette imponerende brød.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Blomster- og urtesmør",
         "text": "Fremtryl smagen af sommer med dette ultracremede, billedskønne urteblomstersmør.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       },
       {
         "title": "Roseformede gyoza-dumplings",
         "text": "Lad din kreativitet blomstre, mens du skaber disse fantastiske, krydrede bladformede dumplings.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.mx/"
       }
     ],
     "actions": {
@@ -147,7 +147,7 @@
     "actions": {
       "shop": {
         "label": "Køb din",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.mx/"
       }
     }
   }
