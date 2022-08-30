@@ -6,8 +6,6 @@ import SectionContent from "../components/SectionContent";
 function Sitemap() {
   return (
     <>
-      <Header />
-
       <main className="mixer-blossom">
         <Section>
           <SectionContent>
