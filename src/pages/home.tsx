@@ -57,7 +57,7 @@ function Home() {
         />
       </main>
 
-      <Footer />
+      {/*<Footer />*/}
     </>
   );
 }
