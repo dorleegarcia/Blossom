@@ -5,7 +5,7 @@
     "actions": {
       "shop": {
         "label": "Shop",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.pr/"
       }
     },
     "alt" : {
@@ -35,7 +35,7 @@
     "actions": {
       "shop": {
         "label": "Shop now",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.pr/"
       }
     }
   },
@@ -73,7 +73,7 @@
     "actions": {
       "inspire": {
         "label": "Inspire me",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.pr/"
       }
     }
   },
@@ -85,7 +85,7 @@
       "actions": {
         "shop": {
           "label": "Shop now",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.pr/"
         }
       }
     },
@@ -95,7 +95,7 @@
       "actions": {
         "shop": {
           "label": "Explore attachments",
-          "link": "https://www.kitchenaid.com/"
+          "link": "https://www.kitchenaid.pr/"
         }
       }
     }
@@ -103,7 +103,7 @@
 
   "video": {
     "title": "Blossom with <span>every recipe</span>",
-    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "video": "https://player.vimeo.pr/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
     "slides": [
       {
         "icons": [
@@ -122,17 +122,17 @@
       {
         "title": "Epi bread",
         "text": "Master the basics, and then branch out with this French-inspired epi-bread.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.pr/"
       },
       {
         "title": "Flower and herb butter",
         "text": "Whip up butter in full bloom.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.pr/"
       },
       {
         "title": "Rose-shaped gyoza dumplings",
         "text": "Dumplings for dinner? Create them as a bouquet of Rose-Shaped Gyoza.",
-        "href": "https://www.kitchenaid.com/"
+        "href": "https://www.kitchenaid.pr/"
       }
     ],
     "actions": {
@@ -147,7 +147,7 @@
     "actions": {
       "shop": {
         "label": "Buy yours",
-        "link": "https://www.kitchenaid.com/"
+        "link": "https://www.kitchenaid.pr/"
       }
     }
   }
