@@ -1,0 +1,154 @@
+{
+  "title": "KitchenAid MX- Blossom",
+
+  "global" : {
+    "actions": {
+      "shop": {
+        "label": "Shop",
+        "link": "https://www.kitchenaid.com/"
+      }
+    },
+    "alt" : {
+      "mixer": "Blossom mixer",
+      "plants": "Blossom plants",
+      "bowl": "Copper bowl"
+    }
+  },
+
+  "intro": {
+    "title": "Ready to",
+    "text": "Introducing Blossom. Let your creativity flourish with the new KitchenAid Design Series Stand Mixer.",
+    "subtitle": "Let your <span>creativity flourish</span>"
+  },
+
+  "kitchen": {
+    "title": "every time you step up <br/>to this <span>stand mixer</span>"
+  },
+
+  "description": {
+    "title": "Introducing Blossom.<br/> Let your <span>creativity flourish</span> with the new KitchenAid Design Series Stand Mixer",
+    "legends": [
+      "The iconic hub cover has been reimagined",
+      "Gorgeous hammered bowl detail",
+      "Soft, thyme green with a velvety satin finish"
+    ],
+    "actions": {
+      "shop": {
+        "label": "Shop now",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "pola": {
+    "subtitle": [
+      "The soft thyme green color and <br/> botanical accents are inspired <br/> by the <span>aromatic herbs and</span> <br/> <span>edible flowers</span> used in <br/> cooking and baking",
+      "Soft thyme green with <br/> <span>velvety satin finish</span>"
+    ],
+    "pola": {
+      "title": "Thyme green",
+      "subtitle": "Blossom"
+    }
+  },
+
+  "hubCover": {
+    "title": "The iconic hub cover has been <span>reimagined</span>",
+    "subtitle": [
+      "soft, <br/> <span>satin-chrome</span> <br/> hub cover",
+      "as you start a  <br/> creative journey that lasts <br/> <span>a lifetime</span>"
+    ]
+  },
+
+  "bowl": {
+    "title": [
+      "Blossom has a bowl <br/> like no other with a <br/> <span> gorgeous copper</span> <br/> hammered detail",
+      "and classic pot-style <span>handles</span>"
+    ],
+    "subtitle": [
+      "develops a unique patina over time,  <br/> <span>reflecting</span> your growth as a maker"
+    ]
+  },
+
+  "inspirations": {
+    "actions": {
+      "inspire": {
+        "label": "Inspire me",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  },
+
+  "photos": [
+    {
+      "title": "Blossom inspired interiors",
+      "text": "The Blossom Design Series Stand Mixer blurs the line between appliance and art with its soft thyme green color, botanical details, and unique hammered copper bowl. Explore ways to see it in your kitchen.",
+      "actions": {
+        "shop": {
+          "label": "Shop now",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    },
+    {
+      "title": "Grow with attachments",
+      "text": "Explore your full potential. With over 10 different attachments to enjoy, you can make everything from fresh pasta to burgers, veggie noodles, ice cream and more.",
+      "actions": {
+        "shop": {
+          "label": "Explore attachments",
+          "link": "https://www.kitchenaid.com/"
+        }
+      }
+    }
+  ],
+
+  "video": {
+    "title": "Blossom with <span>every recipe</span>",
+    "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
+    "slides": [
+      {
+        "icons": [
+          "dough_hook",
+          "bread"
+        ],
+        "text": "Discover fresh recipe inspiration for every meal, every occasion, every craving."
+      }
+    ]
+  },
+  
+  "recipes": {
+    "title": "recipes",
+    "subtitle": "Let nature guide your creativity",
+    "recipesList": [
+      {
+        "title": "Epi bread",
+        "text": "Master the basics, and then branch out with this French-inspired epi-bread.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Flower and herb butter",
+        "text": "Whip up butter in full bloom.",
+        "href": "https://www.kitchenaid.com/"
+      },
+      {
+        "title": "Rose-shaped gyoza dumplings",
+        "text": "Dumplings for dinner? Create them as a bouquet of Rose-Shaped Gyoza.",
+        "href": "https://www.kitchenaid.com/"
+      }
+    ],
+    "actions": {
+      "explore": {
+        "label": "Make it"
+      }
+    }
+  },
+  
+  "shop": {
+    "title": "Its time to",
+    "actions": {
+      "shop": {
+        "label": "Buy yours",
+        "link": "https://www.kitchenaid.com/"
+      }
+    }
+  }
+}
