@@ -5,7 +5,7 @@
     "actions": {
       "shop": {
         "label": "Compra",
-        "link": "https://www.kitchenaid.mx/"
+        "link": "https://www.kitchenaid.mx/batidora-design-series-blossom-ksm180lelb/p"
       }
     },
     "alt" : {
@@ -35,7 +35,7 @@
     "actions": {
       "shop": {
         "label": "Comprar ahora",
-        "link": "https://www.kitchenaid.mx/"
+        "link": "https://www.kitchenaid.mx/batidora-design-series-blossom-ksm180lelb/p"
       }
     }
   },
@@ -73,7 +73,7 @@
     "actions": {
       "inspire": {
         "label": "Inspirame",
-        "link": "https://www.kitchenaid.mx/"
+        "link": "https://www.kitchenaid.mx/batidora-design-series-blossom-ksm180lelb/p"
       }
     }
   },
@@ -85,7 +85,7 @@
       "actions": {
         "shop": {
           "label": "Comprar ahora",
-          "link": "https://www.kitchenaid.mx/"
+          "link": "https://www.kitchenaid.mx/batidora-design-series-blossom-ksm180lelb/p"
         }
       }
     },
@@ -122,17 +122,17 @@
       {
         "title": "Pan Epi",
         "text": "Domina los conceptos básicos y luego diversifica con este Pan-Epi de inspiración francesa.",
-        "href": "https://www.kitchenaid.mx/"
+        "href": "https://www.amomikitchenaid.com/pan-epi/"
       },
       {
         "title": "Mantequilla de flores y hierbas",
         "text": "Bate la mantequilla a plena cremosidad.",
-        "href": "https://www.kitchenaid.mx/"
+        "href": "https://www.amomikitchenaid.com/mantequilla-de-hierbas-y-flores/"
       },
       {
         "title": "Albóndigas de gyoza en forma de rosa",
         "text": "¿Albóndigas para cenar? Créalos como un ramo de Gyoza en forma de rosa.",
-        "href": "https://www.kitchenaid.mx/"
+        "href": "https://www.amomikitchenaid.com/gyoza-en-forma-de-rosa/"
       }
     ],
     "actions": {
@@ -147,7 +147,7 @@
     "actions": {
       "shop": {
         "label": "Compra la tuya",
-        "link": "https://www.kitchenaid.mx/"
+        "link": "https://www.kitchenaid.mx//batidora-design-series-blossom-ksm180lelb/p"
       }
     }
   }
