@@ -36,10 +36,10 @@ const globalStyles = globalCss({
   },
 
   "#root": {
-    paddingTop: headerMobileHeight,
+    paddingTop: 0,
 
     [mq[1]]: {
-      paddingTop: headerHeight,
+      paddingTop: 0,
     },
   },
 
