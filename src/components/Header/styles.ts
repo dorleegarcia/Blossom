@@ -10,15 +10,15 @@ const StyledHeader = styled("header", {
   zIndex: 1000,
   width: "100%",
   position: "fixed",
-  height: headerMobileHeight,
+  height: 0,
   transform: "translateY(0rem)",
-  paddingTop: headerMobileHeight,
+  paddingTop: 0,
   backgroundColor: brandColorWhite,
   transition: "transform .4s ease-in-out",
 
   [mq[1]]: {
-    height: headerHeight,
-    paddingTop: headerHeight,
+    height: 0,
+    paddingTop: 0,
   },
 
   variants: {
