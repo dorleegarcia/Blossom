@@ -7,7 +7,7 @@ interface IShopCTAProps {
 
 function ShopCTA({ link, label }: IShopCTAProps): React.ReactElement {
   return (
-    <StyledShopCTA href={link}>
+    <StyledShopCTA href={link} target="_blank">
       {label}
       <StyledShopCTAImage>
         <img src="/images/shop.png" alt={label} />
