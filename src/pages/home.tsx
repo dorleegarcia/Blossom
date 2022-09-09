@@ -28,6 +28,7 @@ function Home() {
 
   return (
     <>
+      <Header />
 
       <main className="mixer-blossom">
         <IntroSection isStatic={false} />
@@ -56,6 +57,7 @@ function Home() {
         />
       </main>
 
+      <Footer />
     </>
   );
 }

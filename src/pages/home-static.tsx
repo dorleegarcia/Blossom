@@ -16,6 +16,7 @@ export function IndexStatic() {
 
   return (
     <>
+      <Header />
 
       <main className="mixer-blossom">
         <IntroSection isStatic />
@@ -30,6 +31,8 @@ export function IndexStatic() {
           link={t("global.actions.shop.link")}
         />
       </main>
+
+      <Footer />
     </>
   );
 }
