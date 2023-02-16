@@ -1,30 +1,26 @@
 {
   "title": "KitchenAid - Blossom",
-
-  "global" : {
+  "global": {
     "actions": {
       "shop": {
         "label": "Compra",
-        "link": "https://www.kitchenaid.gt/"
+        "link": "https://www.kitchenaid.gt/mezclador-de-pie-con-cabezal-inclinable-blossom-serie-design/p"
       }
     },
-    "alt" : {
+    "alt": {
       "mixer": "Blossom mixer",
       "plants": "Blossom plants",
       "bowl": "Copper bowl"
     }
   },
-
   "intro": {
     "title": "Listo para",
     "text": "Presentamos Blossom. Deja tu creatividad florecer con la nueva Batidora de KitchenAid Design Series.",
     "subtitle": "Deja tu <span>creatividad florecer</span>"
   },
-
   "kitchen": {
     "title": "cada vez que te acercas <br/>a esta <span>batidora</span>"
   },
-
   "description": {
     "title": "Presentamos Blossom. <br/> Deja tu <span>creatividad florecer</span> con la nueva Batidora de KitchenAid Design Series",
     "legends": [
@@ -35,11 +31,10 @@
     "actions": {
       "shop": {
         "label": "Comprar ahora",
-        "link": "https://www.kitchenaid.gt/"
+        "link": "https://www.kitchenaid.gt/mezclador-de-pie-con-cabezal-inclinable-blossom-serie-design/p"
       }
     }
   },
-
   "pola": {
     "subtitle": [
       "El color suave verde tomillo y <br/> los acentos botánicos están inspirados <br/> en las <span>hierbas aromáticas y</span><br/> <span>las flores comestibles</span> que se usan <br/> para cocinar y hornear",
@@ -50,7 +45,6 @@
       "subtitle": "Blossom"
     }
   },
-
   "hubCover": {
     "title": "El icónico medallón ha sido <span>reimaginado</span>",
     "subtitle": [
@@ -58,7 +52,6 @@
       "mientras inicias <br/>un viaje creativo que dura <br/> <span>toda la vida</span>"
     ]
   },
-
   "bowl": {
     "title": [
       "Blossom tiene un tazón <br/> como ningún otro con <br/> un hermoso <span>detalle de </span> <br/> <span>cobre martillado</span>",
@@ -68,16 +61,14 @@
       "desarrolla una pátina única <br/> con el tiempo, lo que <span>refleja</span> <br/> su crecimiento como creador"
     ]
   },
-
   "inspirations": {
     "actions": {
       "inspire": {
         "label": "Inspirame",
-        "link": "https://www.kitchenaid.gt/"
+        "link": "https://www.kitchenaid.gt/mezclador-de-pie-con-cabezal-inclinable-blossom-serie-design/p"
       }
     }
   },
-
   "photos": [
     {
       "title": "Interiores inspirados en Blossom",
@@ -85,7 +76,7 @@
       "actions": {
         "shop": {
           "label": "Comprar ahora",
-          "link": "https://www.kitchenaid.gt/"
+          "link": "https://www.kitchenaid.gt/mezclador-de-pie-con-cabezal-inclinable-blossom-serie-design/p"
         }
       }
     },
@@ -95,12 +86,11 @@
       "actions": {
         "shop": {
           "label": "Explora Aditamentos",
-          "link": "https://www.kitchenaid.gt/"
+          "link": "https://www.kitchenaid.gt/batidoras/accesorios"
         }
       }
     }
   ],
-
   "video": {
     "title": "Florece con <span>cualquier receta</span>",
     "video": "https://player.vimeo.com/progressive_redirect/playback/731659100/rendition/1080p/file.mp4?loc=external&signature=d72996752bbeff23c00bf84e41dbcb81fc348c4393defef3e2e0810022783941",
@@ -114,7 +104,6 @@
       }
     ]
   },
-  
   "recipes": {
     "title": "Recetas",
     "subtitle": "Deja que la naturaleza guíe tu creatividad",
@@ -122,17 +111,17 @@
       {
         "title": "Pan Epi",
         "text": "Domina los conceptos básicos y luego diversifica con este Pan-Epi de inspiración francesa.",
-        "href": "https://www.kitchenaid.gt/"
+        "href": "https://www.amomikitchenaid.com/pan-epi/"
       },
       {
         "title": "Mantequilla de flores y hierbas",
         "text": "Bate la mantequilla a plena cremosidad.",
-        "href": "https://www.kitchenaid.gt/"
+        "href": "https://www.amomikitchenaid.com/mantequilla-de-hierbas-y-flores/"
       },
       {
         "title": "Albóndigas de gyoza en forma de rosa",
         "text": "¿Albóndigas para cenar? Créalos como un ramo de Gyoza en forma de rosa.",
-        "href": "https://www.kitchenaid.gt/"
+        "href": "https://www.amomikitchenaid.com/gyoza-en-forma-de-rosa/"
       }
     ],
     "actions": {
@@ -141,13 +130,12 @@
       }
     }
   },
-  
   "shop": {
     "title": "Es tiempo de florecer con",
     "actions": {
       "shop": {
         "label": "Compra la tuya",
-        "link": "https://www.kitchenaid.gt/"
+        "link": "https://www.kitchenaid.gt/mezclador-de-pie-con-cabezal-inclinable-blossom-serie-design/p"
       }
     }
   }
